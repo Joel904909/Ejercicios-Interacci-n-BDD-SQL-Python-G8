@@ -1,0 +1,7 @@
+{
+    "name_server": "GWTC71427",
+    "database": "DatabaseBDDII_Fase3",
+    "username": "AppStreamingUserV2",
+    "password": "Udla123",
+    "controlador_odbc": "{ODBC Driver 17 for SQL Server}"
+}
